@@ -14,17 +14,24 @@ The demo will cover ways to deploy an app on a pure open-source stack with Aster
 
 Telephony is an exciting world, but most people still see it as impossibly complicated. Using Adhearsion and the versatility of Ruby, really powerful open source voice apps are possible, using tools already familiar to open source developers. This is a topic about which I am passionate, and I love to see the surprise and excitement in people's eyes when they realize how COOL it is to make a phone ring from a computer (even if it seems boring and everyday, it really still does make people smile). Adhearsion is a unique project in the open source world in that the telephony industry is still dominated by closed-source vendors and products. Adhearsion aims to change this by making telephony and voice application development accessible to everyone.
 
-NB: Adhearsion 2.0 will be released in late March or early April, easily in time for the conference.
+Adhearsion 2.0 has recently been released with many improvements, including a completely new call controller and routing system.
 
-## Ben Langfeld
+## Luca Pradovera
 
-A recovering Physics graduate, Ben now spends approximately 25 hours per day slinging Ruby and is enjoying it a lot more than quantum field theory. Writing voice applications is a perfect fit for him, not least as a result of his addiction to talking. That this can be directed towards a robot can only make the world a better place. Ben has a passion for integrating multiple technologies and has some interesting examples to share to demonstrate the power of Ruby in the field of communications.
+Luca Pradovera has been an Open Source software enthusiast since 1997, beginning with a Slackware desktop and a few servers
+ managed at local ISPs. He has been involved in teaching open source software and methods over a span of over 10 years, 
+in courses that included Linux usage and management and Web development on the LAMP stack, and organized some Open Source Days
+ at local institutions.
 
-Ben is on the Adhearsion core team and has been leading the development of Adhearsion 2.0, the next major evolution of the framework and in 3PCC in Ruby. Ben works primarily for Mojo Lingo LLC, architecting voice applications and the technology used to build them.
+Today he is a freelance Ruby developer contributing to the [Adhearsion](http://adhearsion.com) project with Mojo Lingo, a company providing services to organizations looking
+ to create voice applications.
 
-![Profile picture](https://github.com/benlangfeld/call-for-proposals/raw/master/ben_langfeld-infiltrating_telecoms_with_ruby/profile_picture.jpg)
+Luca has almost 15 years of experience in various it disciplines, especially software development,
+documentation and teaching. over the years he has also acquired skills in devops and server management.
 
-- [My website](http://www.langfeld.me)
-- [My twitter](https://twitter.com/#!/benlangfeld)
-- [Past talk slides](https://github.com/mojolingo/EuRuKo2011)
-- [Past talk video](http://www.youtube.com/watch?v=K851EQjvL1g)
+His interests include web services, APIs and mashups, and voice convergence. He is still amazed by making a phone ring by clicking a link in a Web page.
+
+* Email: lpradovera@mojolingo.com
+* Twitter: [@lucaprado](https://twitter.com/#!/lucaprado)
+* Github: [https://github.com/polysics](https://github.com/polysics)
+* Mojo Lingo: [http://www.mojolingo.com](http://www.mojolingo.com)
